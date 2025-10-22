@@ -3,5 +3,5 @@ matplotlib
 joblib
 seaborn
 streamlit
-sicking
+scikit-learn
 pickle
