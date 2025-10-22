@@ -4,4 +4,4 @@ joblib
 seaborn
 streamlit
 scikit-learn
-pickle
+
